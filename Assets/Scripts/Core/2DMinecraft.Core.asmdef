@@ -1,0 +1,16 @@
+{
+    "name": "2DMinecraft.Core",
+    "rootNamespace": "TwoDMinecraft.Core",
+    "references": [
+        "GUID:7bfdbdf26c834254aa42fc3fa34bf4da"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
